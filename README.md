@@ -1,2 +1,2 @@
-# CSCI274-Assignment-3-Group-Project
+# CSCI272-Assignment-3-Group-Project
 Assignment 3 – Student Grade Sheet (GPA Calculator / Transcript)
