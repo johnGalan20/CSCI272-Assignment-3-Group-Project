@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Course.h"
 
 using namespace std;
@@ -26,6 +25,7 @@ if(grade == "A"){
 }else if(grade == "F"){
     return 0.0;
 }     
+    return 0.0; //For any invalid input
 }
 
 //Parametized constructor implementation
