@@ -20,7 +20,7 @@ public:
 
     void addCourse(Course course);
 
-    // Calculate total credits, total points, GPA, and standing
+    // calculated total credits, total points, GPA, and standing
     int getTotalCredits() const;
     double getTotalPoints() const;
     double getGPA() const;

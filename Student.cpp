@@ -3,7 +3,7 @@
 #include "Student.h"
 using namespace std;
 
-// Default constructor
+// default constructor
 Student::Student() {
     name = "";
 }
