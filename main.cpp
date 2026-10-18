@@ -1,3 +1,9 @@
+//Group Members:
+//Alsseny Diallo: Worked on Main.ppp file
+//Johnston Galan: Worked on Course.h and Course.cpp files
+//Jack Lema: Worked on Student.h and Student.cpp files
+
+
 #include <iostream>
 #include <iomanip>
 #include <string>
